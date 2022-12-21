@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bitburd
 - 👀 I’m interested in programming and computers!
-- 🌱 I’m currently learning C#, Python for Databases
+- 🌱 I’m currently learning C#, Python for cloud Databases
 - 💞️ I’m looking to collaborate on http://jmunrodesign.com/tech
 - 📫 How to reach me: http://jmunrodesign.com/contact/
 
